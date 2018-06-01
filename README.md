@@ -3,7 +3,7 @@
 
 Created my portfolio site in two days
 
-- The face effect I created was made in photoshop
+- The face effect I created was made in photoshop, which I did first. Took me about five days to complete.
 
 - I've also displayed the skills that I've grasped with in this year
 
